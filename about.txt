@@ -1,0 +1,5 @@
+Theme name:    Doc Theme
+Description:   Thème simple, blanc et gris - responsive.
+Author name:   SpF
+Author site:   http://sanspseudofix.fr
+License:       CC-BY
