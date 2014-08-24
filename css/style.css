@@ -28,9 +28,8 @@ a,a:active{outline: none;}
  *
  *  *****************/
 header{/*float: left;*/width: 30%;height: 100%;position: fixed;left: 0;top: 0;background: #eee;}
-.fa-code-fork{font-size: 2em;}
-#logo{font-size: 2em;color: #3f3f3f;text-decoration: none;font-weight: bold;text-align: left;display: inline-block;}
-#titre:first-letter{color: #C94C46;font-size: 2em;}
+#logo{color: #3f3f3f;text-decoration: none;font-weight: bold;text-align: left;display: inline-block;}
+#titre:first-letter{color: #C94C46;font-size: 3em;}
 #titre:hover:first-letter{color: #3f3f3f;}
 #menu{max-height: 100%;}
 #menu ul{text-align: left;}
@@ -47,7 +46,7 @@ header{/*float: left;*/width: 30%;height: 100%;position: fixed;left: 0;top: 0;ba
     /*border: 2px solid #fff;*/
     display: block;}
 
-#menu ul li a:hover{text-decoration: underline;}
+#menu ul li a:hover{text-decoration: underline;background:#fff;}
 #menu-mobile,#nav-invi{display: none;}
 
 #search{float: right;border-bottom: 2px solid #000;}
