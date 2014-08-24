@@ -1,7 +1,7 @@
 DocTheme
 ========
 
-Un thème simple &amp; responsive pour anchors CMS.
+Un thème simple &amp; responsive pour [anchors CMS](https://github.com/anchorcms/anchor-cms).
 
 Je ne garantis pas son fonctionnement. Il me sert juste comme thème pour faire une documentation (d'où son nom ouhou...).
 
